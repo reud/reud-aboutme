@@ -45,4 +45,10 @@ weight = 7
   name = "Java"
   description = "15%"
 
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "5%"
+
 +++
