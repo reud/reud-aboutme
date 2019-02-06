@@ -46,9 +46,9 @@ weight = 7
   description = "15%"
 
 [[feature]]
-  icon = "java"
+  icon = "js"
   icon_pack = "fab"
-  name = "Java"
+  name = "JavaScript"
   description = "5%"
 
 +++
