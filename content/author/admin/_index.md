@@ -27,19 +27,19 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "普通免許(AT 限定)，January"
+  institution = "the Metropolitan Police Department, Japan"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "応用情報技術者試験, June"
+  institution = "IPA:Information-technology Promotion Agency, Japan"
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "基本情報技術者試験, November"
+  institution = "IPA:Information-technology Promotion Agency, Japan"
+  year = 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,22 +49,22 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:mail@reud.net".
 
 [[social]]
   icon = "twitter"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://twitter.com/_reud_"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/reud"
+
+[[social]]
+  icon = "wordpress"
+  icon_pack = "fab"
+  link = "https://reud.net/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -75,6 +75,4 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+情報系の大学生、大学の授業で受けたC言語が初めてのプログラミング。そこからプログラミングの楽しさを知り、C#でコンソールアプリを作成したりして、Unity,Windowsフォームアプリを作成した後、Java,Python,Swiftなど他の言語に手を出すようになる。仮想通貨ブームの際、Twitterで仮想通貨の値段をツイートするBOTを作ろうとした時、APIというものを知り、C#がなかったのでPythonに挑戦した所、簡単に書ける言語仕様に感銘を受けて、それ以降Pythonで出来ることは全てPythonを使っている。特にPython3.6で追加されたf文字列が大のお気に入り。
