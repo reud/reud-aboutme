@@ -1,7 +1,7 @@
 +++
 # Contact widget.
 widget = "contact"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
 title = "Contact"
 subtitle = ""
@@ -18,4 +18,3 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 +++
-
