@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-# image = "crevasse/screenshot_00.jpg"
+image = "projects/tweet_haijin.png"
 # caption = "My caption :smile:"
 
 +++
