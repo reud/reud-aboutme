@@ -39,4 +39,10 @@ weight = 7
   name = "Git/GitHub"
   description = "20%"
 
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "15%"
+
 +++
