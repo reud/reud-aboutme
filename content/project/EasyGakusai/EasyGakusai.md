@@ -8,8 +8,7 @@ title = "EasyGakusai"
 # Project summary to display on homepage.
 summary = "会計処理っぽいソフト"
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "gakusai.png"
+
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
