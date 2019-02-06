@@ -10,27 +10,33 @@ subtitle = ""
 weight = 7
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Python3"
+  description = "65%"
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "copyright"
+  icon_pack = "far"
+  name = "C/C++/C#"
+  description = "30%"  
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "pencil-alt"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Swift 4"
+  description = "20%"
+
+[[feature]]
+  icon = "github-alt"
+  icon_pack = "fab"
+  name = "Git/GitHub"
+  description = "20%"
 
 +++
