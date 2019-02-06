@@ -6,7 +6,7 @@ date = 2019-02-06
 title = "EasyGakusai"
 
 # Project summary to display on homepage.
-summary = "会計処理っぽいソフト"
+summary = "最終更新:2017/9/16\n会計処理っぽいソフト"
 
 
 
