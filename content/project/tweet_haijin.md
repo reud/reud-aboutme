@@ -9,7 +9,7 @@ title = "Tweet Haijin"
 summary = "息をするように呟く人向けの廃人的Twitterクライアント"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "projects/gakusai.png"
+image_preview = "gakusai.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
