@@ -20,9 +20,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Internet of Things",
+  "Network Security",
+  "Machine Learning"
 ]
 
 # List qualifications (such as academic degrees)
