@@ -6,7 +6,7 @@ date = 2019-02-06
 title = "Tweet Haijin"
 
 # Project summary to display on homepage.
-summary = "最終更新:2017/10/04\n息をするように呟く人向けの廃人的Twitterクライアント"
+summary = "最終更新:2017/10/04 息をするように呟く人向けの廃人的Twitterクライアント"
 
 
 
