@@ -22,8 +22,6 @@ external_link = "https://reud.net/2017/09/23/c%E3%81%A8coretweet%E3%81%A7%E4%BD%
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "gakusai.png"
-caption = "My caption :smile:"
+[image]
 
 +++

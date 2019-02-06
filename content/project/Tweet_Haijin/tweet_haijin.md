@@ -22,8 +22,5 @@ external_link = "https://reud.net/2017/09/16/%E3%80%90%E5%AD%A6%E7%A5%AD%E3%82%8
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "haijin.png"
-# caption = "My caption :smile:"
-
+[image]
 +++
