@@ -6,7 +6,7 @@ date = 2019-02-07
 title = "PyLineNotify"
 
 # Project summary to display on homepage.
-summary = "最終更新:2018/2/3 PythonでLINENotifyを簡単に扱えるようにするライブラリ"
+summary = "最終更新:2019/2/3 PythonでLINENotifyを簡単に扱えるようにするライブラリ"
 
 
 
