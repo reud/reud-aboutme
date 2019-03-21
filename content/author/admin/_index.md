@@ -62,8 +62,8 @@ interests = [
   link = "https://github.com/reud"
 
 [[social]]
-  icon = "wordpress"
-  icon_pack = "fab"
+  icon = "blog"
+  icon_pack = "fas"
   link = "https://reud.net/"
 
 # Link to a PDF of your resume/CV from the About widget.
