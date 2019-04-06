@@ -19,13 +19,13 @@ weight = 7
   icon = "python"
   icon_pack = "fab"
   name = "Python3"
-  description = "65%"
+  description = "55%"
 
 [[feature]]
   icon = "copyright"
   icon_pack = "far"
   name = "C/C++/C#"
-  description = "30%"  
+  description = "20%"  
 
 [[feature]]
   icon = "pencil-alt"
@@ -34,10 +34,10 @@ weight = 7
   description = "20%"
 
 [[feature]]
-  icon = "github-alt"
+  icon = "google"
   icon_pack = "fab"
-  name = "Git/GitHub"
-  description = "20%"
+  name = "Golang"
+  description = "40%"
 
 [[feature]]
   icon = "java"
@@ -49,6 +49,6 @@ weight = 7
   icon = "js"
   icon_pack = "fab"
   name = "JavaScript"
-  description = "5%"
+  description = "15%"
 
 +++
